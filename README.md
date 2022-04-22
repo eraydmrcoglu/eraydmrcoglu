@@ -6,7 +6,7 @@
 <p><img align="right" src="https://github.com/eraydmrcoglu/eraydmrcoglu/blob/main/animation_500_kxa883sd.gif" alt="eraydmrcoglu" /></p>
 
 
-- 🌱 I’m currently learning Front-end and Back-end Web Development, other programming languages
+- 🌱 I’m currently learning Front-end and Back-end Web Development
 
 - 📫 How to reach me **c.eray@hotmail.com**
 
