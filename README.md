@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/eraydmrcoglu/eraydmrcoglu/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/eraydmrcoglu/eraydmrcoglu/blob/main/animation_500_kxa883sd.gif" alt="eraydmrcoglu" /></p>
 
 
 - 🌱 I’m currently learning Front-end and Back-end Web Development, other programming languages
