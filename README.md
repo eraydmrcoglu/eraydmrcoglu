@@ -3,7 +3,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/eraydmrcoglu/eraydmrcoglu/blob/main/animation_500_kxa883sd.gif" alt="eraydmrcoglu" /></p>
+<p><img align="right" src="https://github.com/eraydmrcoglu/eraydmrcoglu/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" alt="eraydmrcoglu" /></p>
 
 
 - 🌱 I’m currently learning Front-end and Back-end Web Development
