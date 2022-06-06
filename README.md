@@ -55,6 +55,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
+    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/ProgrammingLanguages/typescript.svg" alt="javascript" width="40" height="40"/>
+    </a>
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
     </a>
@@ -70,8 +73,14 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/FrontendDevelopment/redux.svg" alt="redux" width="40" height="40"/>
+    </a>
     <a href="https://vuejs.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/FrontendDevelopment/vuejs.svg" alt="react" width="40" height="40"/>
+    </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/BackendDevelopment/graphql.svg" alt="redux" width="40" height="40"/>
     </a>
 </p>
 
