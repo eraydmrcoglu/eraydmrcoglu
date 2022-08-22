@@ -76,9 +76,6 @@
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/FrontendDevelopment/redux.svg" alt="redux" width="40" height="40"/>
     </a>
-    <a href="https://vuejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/FrontendDevelopment/vuejs.svg" alt="react" width="40" height="40"/>
-    </a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/BackendDevelopment/graphql.svg" alt="redux" width="40" height="40"/>
     </a>
