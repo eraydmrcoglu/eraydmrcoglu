@@ -58,9 +58,6 @@
     <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/ProgrammingLanguages/typescript.svg" alt="javascript" width="40" height="40"/>
     </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-    </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
