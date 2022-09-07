@@ -14,6 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eraydemircioglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eray" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/c_eray" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="eray" height="30" width="40" /></a>
+<a href="https://dev.to/eraydmrcoglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="eray" height="30" width="40" /></a>
 
 <br>
 <br>
@@ -74,6 +76,13 @@
 <br>
 
 <h3>Statistical Data :-</h3>
+
+<br>
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=eraydmrcoglu alt=eray/> </p>
+
+<br>
+
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=eraydmrcoglu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
