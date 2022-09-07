@@ -71,7 +71,6 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Other/git.svg" alt="git" width="40" height="40"/>
     </a>
 </p>
-
 <br>
 
 <h3>Statistical Data :-</h3>
