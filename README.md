@@ -72,6 +72,14 @@
     <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Other/git.svg" alt="git" width="40" height="40"/>
     </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Database/postgresql.svg" alt="postgresql" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mongodb.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    
+  
 </p>
 <br>
 
