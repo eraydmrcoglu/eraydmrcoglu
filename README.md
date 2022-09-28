@@ -35,10 +35,13 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     </a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/tailwind.svg" alt="tailwindcss" width="40" height="40"/>
+    </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/FrontendDevelopment/bootstrap.svg"
         alt="bootstrap" width="40" height="40"/>
-    </a> 
+    </a>
     <a href="https://angularjs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/FrontendDevelopment/angularjs.svg" width="40" height="40"/>
     </a> 
