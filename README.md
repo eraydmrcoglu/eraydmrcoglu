@@ -90,17 +90,12 @@
 
 <br>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=eraydmrcoglu alt=eray/> </p>
-
-<br>
-
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=eraydmrcoglu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api?username=eraydmrcoglu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoycha"
     alt="adam-pw" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eraydmrcoglu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eraydmrcoglu&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
     alt="eraydmrcoglu" /></p>
-
