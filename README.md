@@ -90,6 +90,11 @@
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=eraydmrcoglu&label=Profile%20views&color=0e75b6&style=flat" alt="eray" /> 
+
+
+<br>
+
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api?username=eraydmrcoglu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoycha"
     alt="adam-pw" 
