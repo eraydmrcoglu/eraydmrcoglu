@@ -11,17 +11,14 @@
 
 <br>
   
-<h3 align="left">Connect with me:</h3> 
-<div align="center">
-<a href="https://linkedin.com/in/eraydemircioglu" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/eraydmrcoglu" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/17813458/eraydmrcoglu" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23000000.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eraydmrcoglu" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17813458/eraydmrcoglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="eraydmrcoglu" height="30" width="40" /></a>
+<a href="https://dev.to/eraydmrcoglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="eraydmrcoglu" height="30" width="40" /></a>
+
+
+</p>
   
 </div>  
 
