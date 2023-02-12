@@ -10,12 +10,20 @@
 - 📫 How to reach me **c.eray@hotmail.com**
 
 <br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eraydemircioglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eray" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/c_eray" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="eray" height="30" width="40" /></a>
-<a href="https://dev.to/eraydmrcoglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="eray" height="30" width="40" /></a>
+  
+<h3 align="left">Connect with me:</h3> 
+<div align="center">
+<a href="https://linkedin.com/in/eraydemircioglu" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/eraydmrcoglu" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/17813458/eraydmrcoglu" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23000000.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+  
+</div>  
 
 <br>
 <br>
@@ -88,11 +96,14 @@
 
 <h3>Statistical Data :-</h3>
 
-<br>
-
 <img src="https://komarev.com/ghpvc/?username=eraydmrcoglu&label=Profile%20views&color=0e75b6&style=flat" alt="eray" /> 
 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=eraydmrcoglu&show_icons=true&count_private=true&hide_border=true" align="center" />
+
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eraydmrcoglu&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
-    alt="eraydmrcoglu" /></p>
+    alt="eraydmrcoglu"/>
+</p>
