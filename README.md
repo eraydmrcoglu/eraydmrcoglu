@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Front-end and Back-end Web Development
 
-- 📫 How to reach me **c.eray@hotmail.com**
+- 📫 How to reach me **eraydmrcoglu@outlook.com**
 
 <br>
   
