@@ -37,8 +37,14 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
+    <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/tailwind.svg" alt="tailwindcss" width="40" height="40"/>
+    </a>
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/sass.svg" alt="sass" width="40" height="40"/>
+    </a>
+    <a href="https://babeljs.io" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/babel.svg" alt="babel" width="40" height="40"/>
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/FrontendDevelopment/bootstrap.svg"
@@ -51,10 +57,13 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/ProgrammingLanguages/typescript.svg" alt="javascript" width="40" height="40"/>
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
     </a>
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/FrontendDevelopment/redux.svg" alt="redux" width="40" height="40"/>
+    </a>
+    <a href="https://reactnative.dev" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/MobileAppDevelopment/reactnative.svg" alt="reactnative" width="40" height="40"/>
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"/>
