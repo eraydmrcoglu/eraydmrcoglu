@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Guys!;I'm+Eray+Demircioglu!;I'm+a+Software+Engineer!;and+I'm+a+Frontend+Developer!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Guys!;I'm+Eray+Demircioglu!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <p><img align="right" src="https://github.com/eraydmrcoglu/eraydmrcoglu/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" alt="eraydmrcoglu" /></p>
