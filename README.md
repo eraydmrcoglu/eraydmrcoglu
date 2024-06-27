@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/eraydmrcoglu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eraydmrcoglu&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=eraydmrcoglu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraydmrcoglu&theme=dracula&layout=compact"/>
 </div>
 
