@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nextjs,vue,react,redux,react,tailwind,git,nodejs,express,postgres,nestjs,mongodb,docker&perline=18" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,vue,react,redux,react,tailwind,git,nodejs,express,java,postgres,nestjs,mongodb,docker&perline=18" />
 </p>
 
 <br>
