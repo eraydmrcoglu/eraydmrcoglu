@@ -15,8 +15,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,vue,react,redux,react,tailwind,git,nodejs,express,java,postgres,nestjs,mongodb,docker&perline=18" />
 </p>
 
-<br>
-
 <div align="center">
   <a href="https://eray-demircioglu-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/eraydemircioglu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
